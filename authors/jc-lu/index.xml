@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JC Lu | UNIST: Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/jc-lu/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/jc-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>JC Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>JC Lu</title>
+      <link>https://unist-analytics.github.io/authors/jc-lu/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of a carbon dioxide-assisted nanoparticle deposition process using sequential experimental design with adaptive design space</title>
+      <link>https://unist-analytics.github.io/publication/casciato-2012-optimization/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/casciato-2012-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of carbon dioxide-assisted nanoparticle deposition process with uncertain design space</title>
+      <link>https://unist-analytics.github.io/publication/casciato-2012-optimization-2/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/casciato-2012-optimization-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

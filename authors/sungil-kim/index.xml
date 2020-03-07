@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sungil Kim | UNIST: Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/sungil-kim/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/sungil-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sungil Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sungil Kim</title>
+      <link>https://unist-analytics.github.io/authors/sungil-kim/</link>
+    </image>
+    
+    <item>
+      <title>A practical approach to measuring the impacts of stockouts on demand</title>
+      <link>https://unist-analytics.github.io/publication/kim-2019-practical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2019-practical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing household characteristics using connected home products</title>
+      <link>https://unist-analytics.github.io/publication/kim-2019-revealing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2019-revealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial cluster detection in mobility networks: a copula approach</title>
+      <link>https://unist-analytics.github.io/publication/kim-2019-spatial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2019-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated holistic model of a complex process</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-integrated/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch sequential minimum energy design with design-region adaptation</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-batch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporation of engineering knowledge into the modeling process: a local approach</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-incorporation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-incorporation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new metric of absolute percentage error for intermittent demand forecasts</title>
+      <link>https://unist-analytics.github.io/publication/kim-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal classification of imbalanced data with application in emergency and disaster information services</title>
+      <link>https://unist-analytics.github.io/publication/kim-2016-ordinal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2016-ordinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive combined space-filling and D-optimal designs</title>
+      <link>https://unist-analytics.github.io/publication/kim-2015-adaptive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2015-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layers of experiments with adaptive combined design</title>
+      <link>https://unist-analytics.github.io/publication/kim-2015-layers/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2015-layers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a carbon dioxide-assisted nanoparticle deposition process using sequential experimental design with adaptive design space</title>
+      <link>https://unist-analytics.github.io/publication/casciato-2012-optimization/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/casciato-2012-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of carbon dioxide-assisted nanoparticle deposition process with uncertain design space</title>
+      <link>https://unist-analytics.github.io/publication/casciato-2012-optimization-2/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/casciato-2012-optimization-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental design methods for nano-fabrication processes</title>
+      <link>https://unist-analytics.github.io/publication/kim-2011-experimental/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2011-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time prediction model of cursor movement with path constraints</title>
+      <link>https://unist-analytics.github.io/publication/hong-2005-time/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/hong-2005-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

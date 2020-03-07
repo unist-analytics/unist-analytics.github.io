@@ -1,0 +1,17 @@
+academic import --bibtex static/files/references.bib
+
+
+
+git submodule add -f -b master https://github.com/unist-analytics/unist-analytics.github.io.git public
+
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..

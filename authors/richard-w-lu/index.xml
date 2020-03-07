@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard W Lu | UNIST: Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/richard-w-lu/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/richard-w-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard W Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Richard W Lu</title>
+      <link>https://unist-analytics.github.io/authors/richard-w-lu/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive combined space-filling and D-optimal designs</title>
+      <link>https://unist-analytics.github.io/publication/kim-2015-adaptive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2015-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layers of experiments with adaptive combined design</title>
+      <link>https://unist-analytics.github.io/publication/kim-2015-layers/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2015-layers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

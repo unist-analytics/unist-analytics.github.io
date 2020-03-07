@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin T Vastola | UNIST: Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/justin-t-vastola/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/justin-t-vastola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Justin T Vastola</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Justin T Vastola</title>
+      <link>https://unist-analytics.github.io/authors/justin-t-vastola/</link>
+    </image>
+    
+    <item>
+      <title>Batch sequential minimum energy design with design-region adaptation</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-batch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporation of engineering knowledge into the modeling process: a local approach</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-incorporation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-incorporation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
