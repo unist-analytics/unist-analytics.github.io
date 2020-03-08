@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UNIST: Data Analytics Lab</title>
+    <title>Data Analytics Lab</title>
     <link>https://unist-analytics.github.io/</link>
       <atom:link href="https://unist-analytics.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>UNIST: Data Analytics Lab</description>
+    <description>Data Analytics Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>UNIST: Data Analytics Lab</title>
+      <title>Data Analytics Lab</title>
       <link>https://unist-analytics.github.io/</link>
     </image>
     
