@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Engineering | Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/tags/quality-engineering/</link>
+      <atom:link href="https://unist-analytics.github.io/tags/quality-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quality Engineering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 19:03:27 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Quality Engineering</title>
+      <link>https://unist-analytics.github.io/tags/quality-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Mixture Gases Classification</title>
+      <link>https://unist-analytics.github.io/project/mixture-gases-classification/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://unist-analytics.github.io/project/mixture-gases-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

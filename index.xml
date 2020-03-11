@@ -5,12 +5,36 @@
     <link>https://unist-analytics.github.io/</link>
       <atom:link href="https://unist-analytics.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analytics Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 19:03:27 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data Analytics Lab</title>
       <link>https://unist-analytics.github.io/</link>
     </image>
+    
+    <item>
+      <title>Household Profiling</title>
+      <link>https://unist-analytics.github.io/project/household-profiling/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://unist-analytics.github.io/project/household-profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maritime Anomaly Detection</title>
+      <link>https://unist-analytics.github.io/project/maritime-anomaly-detection/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://unist-analytics.github.io/project/maritime-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture Gases Classification</title>
+      <link>https://unist-analytics.github.io/project/mixture-gases-classification/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://unist-analytics.github.io/project/mixture-gases-classification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A practical approach to measuring the impacts of stockouts on demand</title>
@@ -49,6 +73,14 @@
       <link>https://unist-analytics.github.io/publication/kim-2017-batch/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://unist-analytics.github.io/publication/kim-2017-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early detection of vessel delays using combined historical and real-time information</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-early/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-early/</guid>
       <description></description>
     </item>
     

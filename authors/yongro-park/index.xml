@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongro Park | Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/yongro-park/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/yongro-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongro Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yongro Park</title>
+      <link>https://unist-analytics.github.io/authors/yongro-park/</link>
+    </image>
+    
+    <item>
+      <title>Early detection of vessel delays using combined historical and real-time information</title>
+      <link>https://unist-analytics.github.io/publication/kim-2017-early/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2017-early/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

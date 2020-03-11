@@ -3,22 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://unist-analytics.github.io/authors/admin/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/jhl/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/nw/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/oh/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/park/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/project/household-profiling/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/project/maritime-anomaly-detection/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/project/mixture-gases-classification/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/tags/optimization/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/project/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/tags/quality-engineering/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/tags/statistics/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/tags/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unist-analytics.github.io/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://unist-analytics.github.io/publication/kim-2019-practical/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unist-analytics.github.io/authors/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unist-analytics.github.io/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://unist-analytics.github.io/publication/kim-2017-early/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unist-analytics.github.io/publication/kim-2017-incorporation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -114,6 +184,11 @@
   
   <url>
     <loc>https://unist-analytics.github.io/authors/martha-a-grover/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/yongro-park/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +278,11 @@
   </url>
   
   <url>
-    <loc>https://unist-analytics.github.io/authors/admin/</loc>
+    <loc>https://unist-analytics.github.io/authors/jo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/jyl/</loc>
   </url>
   
   <url>
@@ -216,10 +295,6 @@
   
   <url>
     <loc>https://unist-analytics.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unist-analytics.github.io/tags/</loc>
   </url>
   
 </urlset>
