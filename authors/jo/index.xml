@@ -5,12 +5,20 @@
     <link>https://unist-analytics.github.io/authors/jo/</link>
       <atom:link href="https://unist-analytics.github.io/authors/jo/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analytics Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 19:03:27 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data Analytics Lab</title>
       <link>https://unist-analytics.github.io/authors/jo/</link>
     </image>
+    
+    <item>
+      <title>Stowage Plan for Container Ships</title>
+      <link>https://unist-analytics.github.io/project/stowage-plan-for-container-ships/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://unist-analytics.github.io/project/stowage-plan-for-container-ships/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
