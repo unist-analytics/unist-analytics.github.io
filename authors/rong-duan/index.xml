@@ -5,12 +5,20 @@
     <link>https://unist-analytics.github.io/authors/rong-duan/</link>
       <atom:link href="https://unist-analytics.github.io/authors/rong-duan/index.xml" rel="self" type="application/rss+xml" />
     <description>Rong Duan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rong Duan</title>
       <link>https://unist-analytics.github.io/authors/rong-duan/</link>
     </image>
+    
+    <item>
+      <title>Multiresolution spatial generalized linear mixed model for integrating multi-fidelity spatial count data without common identifiers between data source</title>
+      <link>https://unist-analytics.github.io/publication/kim-2020-multiresolution/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/kim-2020-multiresolution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial cluster detection in mobility networks: a copula approach</title>
