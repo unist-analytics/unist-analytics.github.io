@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://unist-analytics.github.io/authors/</loc>
+    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://unist-analytics.github.io/authors/admin/</loc>
     <lastmod>2020-03-10T19:03:27+09:00</lastmod>
   </url>
@@ -34,11 +39,6 @@
   
   <url>
     <loc>https://unist-analytics.github.io/authors/park/</loc>
-    <lastmod>2020-03-10T19:03:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unist-analytics.github.io/authors/</loc>
     <lastmod>2020-03-10T19:03:27+09:00</lastmod>
   </url>
   
@@ -114,6 +114,16 @@
   
   <url>
     <loc>https://unist-analytics.github.io/authors/heeyoung-kim/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/authors/jaemin-park/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unist-analytics.github.io/publication/kim-2020-maritime/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
