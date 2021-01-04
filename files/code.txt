@@ -1,5 +1,9 @@
 academic import --bibtex static/files/references.bib
 
+윈도우 경우
+git config --global core.autocrlf true
+맥의 경우
+git config --global core.autocrlf input
 
 
 git submodule add -f -b master https://github.com/unist-analytics/unist-analytics.github.io.git public
