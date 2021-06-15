@@ -9,7 +9,9 @@ git config --global core.autocrlf input
 git submodule add -f -b master https://github.com/unist-analytics/unist-analytics.github.io.git public
 
 git add .
+
 git commit -m "Initial commit"
+
 git push -u origin master
 
 
