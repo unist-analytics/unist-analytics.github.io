@@ -25,3 +25,6 @@ cd ..
 
 
 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
+
+
+git pull origin master
