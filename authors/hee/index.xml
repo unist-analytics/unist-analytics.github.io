@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/hee/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/hee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analytics Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Data Analytics Lab</title>
+      <link>https://unist-analytics.github.io/authors/hee/</link>
+    </image>
+    
+  </channel>
+</rss>
