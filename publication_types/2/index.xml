@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Simulation-based Anomaly Detection in Nuclear Reactors</title>
+      <link>https://unist-analytics.github.io/publication/oh-2021-simulation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2021-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer-Learning based approach for mixture gas classification</title>
+      <link>https://unist-analytics.github.io/publication/oh-2021-transfer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2021-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maritime anomaly detection based on VAE-CUSUM monitoring system</title>
       <link>https://unist-analytics.github.io/publication/kim-2020-maritime/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -33,22 +49,6 @@
       <link>https://unist-analytics.github.io/publication/kim-2020-multiresolution/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://unist-analytics.github.io/publication/kim-2020-multiresolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation-based Anomaly Detection in Nuclear Reactors</title>
-      <link>https://unist-analytics.github.io/publication/oh-2020-simulation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://unist-analytics.github.io/publication/oh-2020-simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transfer-Learning based approach for mixture gas classification</title>
-      <link>https://unist-analytics.github.io/publication/oh-2020-transfer/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://unist-analytics.github.io/publication/oh-2020-transfer/</guid>
       <description></description>
     </item>
     
