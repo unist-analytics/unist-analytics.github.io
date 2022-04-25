@@ -5,7 +5,7 @@
     <link>https://unist-analytics.github.io/publication/</link>
       <atom:link href="https://unist-analytics.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Multichannel Convolution Neural Network for Gas Mixture Classification</title>
+      <link>https://unist-analytics.github.io/publication/oh-2022-multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2022-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Incident Impacts and Identifying Influential Factors on Urban Traffic Networks</title>
+      <link>https://unist-analytics.github.io/publication/oh-2022-quant/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2022-quant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maximum feasibility estimation</title>
       <link>https://unist-analytics.github.io/publication/kim-2021-maximum/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://unist-analytics.github.io/publication/kim-2021-maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel Convolution Neural Network for Gas Mixture Classification</title>
+      <link>https://unist-analytics.github.io/publication/oh-2021-multi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2021-multi/</guid>
       <description></description>
     </item>
     

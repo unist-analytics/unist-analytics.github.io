@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junghye Lee | Data Analytics Lab</title>
+    <link>https://unist-analytics.github.io/authors/junghye-lee/</link>
+      <atom:link href="https://unist-analytics.github.io/authors/junghye-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junghye Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Junghye Lee</title>
+      <link>https://unist-analytics.github.io/authors/junghye-lee/</link>
+    </image>
+    
+    <item>
+      <title>Multichannel Convolution Neural Network for Gas Mixture Classification</title>
+      <link>https://unist-analytics.github.io/publication/oh-2022-multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://unist-analytics.github.io/publication/oh-2022-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
